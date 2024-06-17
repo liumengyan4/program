@@ -1,0 +1,3 @@
+/home/su/program/CMakeFiles/a.out.dir
+/home/su/program/CMakeFiles/edit_cache.dir
+/home/su/program/CMakeFiles/rebuild_cache.dir
